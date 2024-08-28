@@ -23,3 +23,13 @@ elif n<vip:
 	print('menor')
 elif n==vip:
 	print('vip')
+
+
+
+
+
+
+
+
+
+
