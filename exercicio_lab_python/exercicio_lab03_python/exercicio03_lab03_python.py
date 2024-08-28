@@ -23,4 +23,4 @@ elif 20 <= c <40:
    c = 2.75*c + a 
 elif c >= 40:
    c = 3.0*c + a 
-print(c)
+print(round(c, 2))
