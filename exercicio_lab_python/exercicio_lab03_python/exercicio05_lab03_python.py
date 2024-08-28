@@ -6,10 +6,10 @@ Para isso, estão oferecendo descontos progressivos para famílias com mais memb
 Eles aplicam os seguintes descontos:
 
 Número de membros da família	| Desconto
-            1                 |  Nenhum
-            2                 |   15%
-            3                 |   25%
-            4                 |  ou mais	35%
+            1                   |  Nenhum
+            2                   |   15%
+            3                   |   25%
+            4 ou mais           |   35%
 Escreva um programa que leia:
 
 O valor do plano de saúde mensal individual, em R$ (float).
