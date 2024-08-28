@@ -27,12 +27,21 @@ quinta = 5
 sexta = 6
 sabado = 7'''
 
+'''domingo = 1
+segunda = 2
+terca = 3
+quarta= 4
+quinta = 5
+sexta = 6
+sabado = 7'''
 dia_da_semana = [1, 2, 3 ,4 ,5 ,6, 7]
 
 preco = float(input("Digite o preco da boate: "))
 dia  = int(input("Digite o dia da semana com seu reespectivo numero da semana de 1 a 7: "))
 m = str(input('É dia de musica ao vivo? ').upper())
+
 musica = ["S", "N"]
+
 if m in musica:
   	if m == "S":
 	   if dia in dia_da_semana:
