@@ -7,7 +7,7 @@ def operacoes(a, b):
         result = [soma, subtracao, multiplicacao, divisao]
         return result
     else:
-        print("error!")
+        return "Error!"
     return 0
 num_1 = int(input("Digite um número inteiro: \n"))
 num_2 = int(input("Digite outro número inteiro: \n"))
